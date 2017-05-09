@@ -1,0 +1,6 @@
+/*images*/
+ul li{list-style:none;}
+ img{width:80%;height: 55%;position: absolute;}
+ 
+ /*span*/
+ span{z-index: 1;position: absolute;top:150px;left:100px;color:#c79742;background:rgba(0,0,0,0.8);font-size:30px;}
